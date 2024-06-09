@@ -1,0 +1,5 @@
+1)los keys en .env
+2)Se instala el chatify
+-composer require munafio/chatify
+-php artisan chatify:install
+-php artisan migrate
